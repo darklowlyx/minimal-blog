@@ -1,0 +1,12 @@
+/* --Reset styles-- */
+@import "reset.css";
+/* --Common styles-- */
+@import "common.css";
+/* --Header styles-- */
+@import "header.css";
+/* --Footer styles-- */
+@import "footer.css";
+/* --HomePage styles-- */
+@import "homepage.css";
+/* --?rticle styles-- */
+@import "article.css";
